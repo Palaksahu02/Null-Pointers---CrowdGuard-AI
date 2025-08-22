@@ -1,7 +1,10 @@
 ##Null-Pointers---CrowdGuard-AI
-Team name - Null Pointers, Project title -  CrowdGuard AI
-Team Members - Rohit Singh, Palak Sahu, Tekendra Sonvarsha
-##Problem Statement -- Large gatherings often face risks such as stampedes, medical emergencies, accidents, or even security threats. Traditional emergency response is usually delayed due to slow communication, lack of real-time monitoring, and human error.
+##Team name - Null Pointers, Project title -  CrowdGuard AI
+##Team Members - Rohit Singh, Palak Sahu, Tekendra Sonvarsha
+
+##Problem Statement -- 
+
+Large gatherings often face risks such as stampedes, medical emergencies, accidents, or even security threats. Traditional emergency response is usually delayed due to slow communication, lack of real-time monitoring, and human error.
 
 ## Project Description -- 
 
