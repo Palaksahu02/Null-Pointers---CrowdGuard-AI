@@ -147,3 +147,9 @@ Multilingual Voice Alerts
 
 Add automatic voice-based alerts in multiple local languages for crowd guidance during emergencies.
 
+
+## PPT link --
+https://docs.google.com/presentation/d/1HfJiVq9NUDuRlOke5aGrAF17hoyx2X6h/edit?usp=sharing&ouid=108385564377944947346&rtpof=true&sd=true
+
+## Project Snapshots --
+https://docs.google.com/presentation/d/1ZaS9xqh3oRzY6BRpAW779v5-atnabgQe/edit?usp=sharing&ouid=108385564377944947346&rtpof=true&sd=true
