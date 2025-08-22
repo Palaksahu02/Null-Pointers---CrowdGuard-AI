@@ -1,6 +1,10 @@
-##Null-Pointers---CrowdGuard-AI
-##Team name - Null Pointers, Project title -  CrowdGuard AI
-##Team Members - Rohit Singh, Palak Sahu, Tekendra Sonvarsha
+
+##Team name -- 
+Null Pointers
+##Project title -- 
+CrowdGuard AI
+##Team Members -- 
+Rohit Singh, Palak Sahu, Tekendra Sonvarsha
 
 ## Problem Statement -- 
 
